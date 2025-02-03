@@ -1,0 +1,17 @@
+streamlit
+Pillow
+firebase-admin
+anthropic
+openai
+pygame
+sounddevice
+soundfile
+scipy
+numpy
+nltk
+google-generativeai
+replicate
+python-dotenv
+pyttsx3
+SpeechRecognition
+pyaudio
